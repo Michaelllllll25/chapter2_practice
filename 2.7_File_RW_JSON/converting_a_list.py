@@ -1,3 +1,4 @@
+# person = ["Jim", "blue", 54, "green"]
 person = {
     "name": "Jim",
     "color": "blue",
