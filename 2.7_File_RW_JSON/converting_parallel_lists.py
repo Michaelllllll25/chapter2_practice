@@ -1,3 +1,23 @@
+values = [
+    'Mitchell', '99.5', '123456'
+    'Ortiz', '78.5', '813225'
+    'Luu', '95.6', '823669'
+    'Zimmerman', '96.8', '307760'
+    'Brooks', '82.7', '827131'
+    ]
+
+
+
+
+search = input("What ID number do you want to find? ")
+
+if search == values[3]:
+    print(values[1])
+
+
+
+
+
 Mitchell = {
     "name": "Mitchell",
     "average": 99.5,
